@@ -80,7 +80,7 @@ The processing time for the Bachelorarbeit is 18 weeks.
 ```text
 ai-document-assistant/
 ├── documents/
-│   └── fpo-b_informatik.pdf
+│   └── your_document.pdf
 ├── pdf_assistant.py
 ├── .env
 ├── .gitignore
